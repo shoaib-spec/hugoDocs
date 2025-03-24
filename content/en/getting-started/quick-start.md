@@ -1,5 +1,5 @@
 ---
-title: Quick start
+title: Fmovies
 description: Create a Hugo site in minutes.
 categories: []
 keywords: []
